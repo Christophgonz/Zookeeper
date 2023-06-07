@@ -20,3 +20,13 @@ The live application is hosted at the following url:
 https://pokezoo6000.herokuapp.com/
 
 ![pokezoo6000 herokuapp com_ (1)](https://github.com/tbohn2/Zookeeper/assets/124842865/05c5de1b-1463-46e9-b12f-4c0821867cfe)
+
+## Directions for Future Development
+
+View other users homes
+Add a diet and habitat choice  for each pokemon
+Adding a way to view and affect each pokemon’s happiness level
+Ability to remove pokemon from a home
+More extending the bootstrap framework
+Adding more pokemon compatibility
+
